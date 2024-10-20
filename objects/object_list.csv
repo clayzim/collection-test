@@ -1,0 +1,6 @@
+filename,object_location,image_small,image_thumb
+lib_001.jpg,/objects/lib_001.jpg,/objects/small/lib_001_sm.jpg,/objects/thumbs/lib_001_th.jpg
+lib_002.jpg,/objects/lib_002.jpg,/objects/small/lib_002_sm.jpg,/objects/thumbs/lib_002_th.jpg
+lib_003.jpg,/objects/lib_003.jpg,/objects/small/lib_003_sm.jpg,/objects/thumbs/lib_003_th.jpg
+lib_004.jpg,/objects/lib_004.jpg,/objects/small/lib_004_sm.jpg,/objects/thumbs/lib_004_th.jpg
+lib_005.jpg,/objects/lib_005.jpg,/objects/small/lib_005_sm.jpg,/objects/thumbs/lib_005_th.jpg
